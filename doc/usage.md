@@ -40,7 +40,7 @@ AutoDub 提供三个版本：
 
 在新建任务界面，您可以配置视频处理任务的各种参数。
 
-![新建任务界面](resource/add_task.jpg)
+![新建任务界面](/resource/add_task.jpg)
 
 #### 任务配置说明
 
@@ -72,7 +72,7 @@ AutoDub 提供三个版本：
 
 在调度中心界面，您可以查看和管理所有任务。
 
-![调度中心](resource/queue.jpg)
+![调度中心](/resource/queue.jpeg)
 
 **功能说明**：
 
@@ -84,7 +84,7 @@ AutoDub 提供三个版本：
 
 基础版和高阶版用户可在此界面添加和管理火山引擎的音色资源。
 
-![TTS资源界面](resource/tts.jpg)
+![TTS资源界面](/resource/tts.jpg)
 
 #### 添加音色资源
 
@@ -112,7 +112,7 @@ AutoDub 提供三个版本：
 
 所有用户均可配置翻译资源。目前支持火山引擎大模型。
 
-![翻译资源界面](resource/translate.jpg)
+![翻译资源界面](/resource/translate.jpg)
 
 #### 配置参数
 
@@ -134,7 +134,7 @@ AutoDub 提供三个版本：
 
 此功能仅对非免费用户开放，帮助用户快速上传作品到 B 站。
 
-![上传界面](resource/upload.jpg)
+![上传界面](/resource/upload.jpg)
 
 #### 功能特性
 
@@ -177,5 +177,6 @@ A: 请访问火山引擎控制台，按照上述文档中的链接获取相应�
 ---
 
 **提示**：如有其他问题，请加入 QQ 群咨询。
+
 
 
