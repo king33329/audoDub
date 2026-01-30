@@ -6,3 +6,4 @@
 『来自123云盘的快传分享』AutoDub.zip，打开以下链接可享免登录极速下载
 链接：https://www.123865.com/s/g7oRvd-jcTIH
 
+最新版本：https://www.123865.com/s/DBieTd-Kip8d?pwd=K2Rj#  【老版本不在维护】
